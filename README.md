@@ -1,1 +1,1 @@
-# funçãoo-mínimo-Esforço
+# função-mínimo-Esforço
